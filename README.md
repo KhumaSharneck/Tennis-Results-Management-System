@@ -21,7 +21,7 @@ The database was designed using the complete database development lifecycle:
 - Query development
 - Testing and validation
 
-Supporting documentation is included within the project report and appendix.
+Comprehensive supporting documentation is provided in REPORT.pdf and APPENDIX.pdf, including the database design process, ER diagrams, SQL implementation and validation evidence.
 
 ---
 
@@ -127,8 +127,8 @@ Tennis-Results-Management-System
 - PostgreSQL
 - Entity Relationship Modelling
 - Database Normalisation
-- SQL-DDL
-- SQL-DML
+- SQL (DDL)
+- SQL (DML)
 - Primary & Foreign Key Design
 - Query Development
 - Database Testing
@@ -174,7 +174,3 @@ Potential future improvements include:
 Computer Science student at the University of Reading
 
 Aspiring Software Engineer
-
-GitHub: https://github.com/KhumaSharneck
-
-LinkedIn: https://www.linkedin.com/in/khuma-sharneck-a47a3a2b1
